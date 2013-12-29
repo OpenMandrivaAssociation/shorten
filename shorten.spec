@@ -1,6 +1,6 @@
 Name: shorten
 Version: 3.6.1
-Release: %mkrel 1
+Release: 2
 License: Distributable
 Summary: A fast, low complexity waveform coder
 Group: Sound
