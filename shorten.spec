@@ -1,6 +1,6 @@
 Name:		shorten
 Version:	3.6.1
-Release:	3
+Release:	4
 License:	Distributable
 Summary:	A fast, low complexity waveform coder
 Group:		Sound
