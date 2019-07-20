@@ -1,6 +1,6 @@
 Name:		shorten
 Version:	3.6.1
-Release:	4
+Release:	5
 License:	Distributable
 Summary:	A fast, low complexity waveform coder
 Group:		Sound
@@ -17,10 +17,10 @@ operate in both lossy and lossless modes.
 
 %build
 %configure2_5x
-%make
+%make_build
 
 %install
-%makeinstall_std
+%make_install
 
 %files
 %doc AUTHORS ChangeLog COPYING NEWS README doc/LICENSE doc/TODO doc/tr156.ps
