@@ -4,7 +4,7 @@ Release:	5
 License:	Distributable
 Summary:	A fast, low complexity waveform coder
 Group:		Sound
-URL:		http://www.etree.org/shnutils/shorten/
+URL:		https://www.etree.org/shnutils/shorten/
 Source:		http://www.etree.org/shnutils/shorten/dist/src/shorten-%{version}.tar.gz
 
 %description
